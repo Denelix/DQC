@@ -1,3 +1,5 @@
+Drag into an editor folder inside unity will be unitypackage on an official release
+
 //needs to work on disabled objects - donec
 
 //Textures to be copied to the new folder - done
@@ -12,4 +14,4 @@
 
 //VRC Fury Toggles and VRC Fury FX Controller install too.
 
-//
+
