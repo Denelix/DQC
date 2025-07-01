@@ -14,4 +14,4 @@ Drag into an editor folder inside unity will be unitypackage on an official rele
 
 //VRC Fury Toggles and VRC Fury FX Controller install too.
 
-
+//I quitteded... :) Just use anmything else! :D also check out my FPSOSC
